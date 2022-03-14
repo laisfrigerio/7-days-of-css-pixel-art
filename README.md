@@ -4,7 +4,7 @@
   <a><img src="./yt-day-1.png" alt="Pixel Art Emoji - Face with medical mask" title="Pixel Art Emoji - Face with medical mask"></a>
 </p>
 
-- [x] Dia 01 - Emoji Face with Medical Mask | [Vídeo no youtube](https://youtu.be/RFn5CJKgdVU)
+- [x] Dia 01 - Emoji Face with Medical Mask | [Youtube vídeo](https://youtu.be/RFn5CJKgdVU)
 
 ## 👩 Author
 
