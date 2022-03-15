@@ -1,16 +1,16 @@
 # 7 Days Of CSS Challenge
 
+- [x] Dia 01 - Emoji Face with Medical Mask | [Youtube vídeo](https://youtu.be/RFn5CJKgdVU)
+
 <p align="center">
   <a><img src="./yt-day-1.png" alt="Pixel Art Emoji - Face with medical mask" title="Pixel Art Emoji - Face with medical mask"></a>
 </p>
 
-- [x] Dia 01 - Emoji Face with Medical Mask | [Youtube vídeo](https://youtu.be/RFn5CJKgdVU)
+- [x] Dia 02 - Emoji crying | loading...
 
 <p align="center">
   <a><img src="./yt-day-2.png" alt="Pixel Art Emoji crying" title="Pixel Art Emoji crying"></a>
 </p>
-
-- [x] Dia 02 - Emoji crying | loading...
 
 ## 👩 Author
 
