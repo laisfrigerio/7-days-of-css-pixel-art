@@ -18,6 +18,12 @@
   <a><img src="./yt-day-3.png" alt="Pixel Art Emoji surprised" title="Pixel Art Emoji surprised"></a>
 </p>
 
+- [x] Dia 04 - Emoji angry | [Youtube vídeo](https://youtu.be/jBm73la_4hs)
+
+<p align="center">
+  <a><img src="./yt-day-4.png" alt="Pixel Art Emoji angry" title="Pixel Art Emoji angry"></a>
+</p>
+
 ## 👩 Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
