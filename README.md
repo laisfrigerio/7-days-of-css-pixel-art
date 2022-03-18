@@ -24,7 +24,7 @@
   <a><img src="./yt-day-4.png" alt="Pixel Art Emoji angry" title="Pixel Art Emoji angry"></a>
 </p>
 
-- [x] Dia 05https://youtu.be/n7fdaaGV3w4)
+- [x] Dia 05 - Emoji smiling face with heart-eyes | [Youtube vídeo](https://youtu.be/n7fdaaGV3w4)
 
 <p align="center">
   <a><img src="./yt-day-5.png" alt="Pixel Art Emoji smiling face with heart-eyes" title="Pixel Art Emoji smiling face with heart-eyes"></a>
