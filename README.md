@@ -24,6 +24,12 @@
   <a><img src="./yt-day-4.png" alt="Pixel Art Emoji angry" title="Pixel Art Emoji angry"></a>
 </p>
 
+- [x] Dia 05https://youtu.be/n7fdaaGV3w4)
+
+<p align="center">
+  <a><img src="./yt-day-5.png" alt="Pixel Art Emoji smiling face with heart-eyes" title="Pixel Art Emoji smiling face with heart-eyes"></a>
+</p>
+
 ## 👩 Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
