@@ -36,6 +36,12 @@
   <a><img src="./yt-day-6.png" alt="Pixel Art Emoji Face with Tears of Joy" title="Pixel Art Emoji Face with Tears of Joy"></a>
 </p>
 
+- [x] Dia 07 - Emoji Face with Sunglasses | [Youtube vídeo](https://youtu.be/nZCNpuuwsKk)
+
+<p align="center">
+  <a><img src="./yt-day-7.png" alt="Pixel Art Emoji Face with Sunglasses" title="Pixel Art Emoji Face with Sunglasses"></a>
+</p>
+
 ## 👩 Author
 
 | [<img src="https://avatars.githubusercontent.com/u/20709086?v=4" width="100px;" alt="Lais Frigério"/><br /><sub><b>@laisfrigerio</b></sub>](https://github.com/laisfrigerio)<br /> |
